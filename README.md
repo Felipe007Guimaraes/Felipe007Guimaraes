@@ -1,4 +1,4 @@
-# *_Hello, my name is Felipe da Silva Guimarães_*
+# *_Hello, my full name is Felipe da Silva Guimarães_*
 
 <div align="center">
   <a href="https://github.com/Felipe007Guimaraes">
