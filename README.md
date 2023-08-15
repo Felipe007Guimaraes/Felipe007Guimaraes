@@ -1,4 +1,4 @@
-# *_Hello, my full name is Felipe da Silva Guimarães_*
+# *_Hi, my name is Felipe, I am Java developer web, and this is my portfolio of personal projects_*
 
 <div align="center">
   <a href="https://github.com/Felipe007Guimaraes">
