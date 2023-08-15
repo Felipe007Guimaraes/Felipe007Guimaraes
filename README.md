@@ -3,8 +3,8 @@
   ### *_Hi, my name is Felipe, I am Java developer web, and this is my portfolio of personal projects_*
   
   <a href="https://github.com/Felipe007Guimaraes">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Felipe007Guimaraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe007Guimaraes&layout=compact&langs_count=7&theme=dark"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Felipe007Guimaraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe007Guimaraes&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
 <div align="center">
