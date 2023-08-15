@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### *_Hi, my name is Felipe, I am Java developer web, and this is my portfolio of personal projects_*
+  ### <img src="https://user-images.githubusercontent.com/50116696/117180968-23688f80-adab-11eb-86f4-c73e86d19d46.gif" width="25" height="25"> *_Hi, my name is Felipe, I am Java developer web, and this is my portfolio of personal projects_*
   
   <a href="https://github.com/Felipe007Guimaraes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Felipe007Guimaraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
