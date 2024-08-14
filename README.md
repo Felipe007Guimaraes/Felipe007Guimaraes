@@ -7,9 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe007Guimaraes&layout=compact&hide_border=true&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Felipe007Guimaraes&bg_color=0d1117&color=DB7093&line=00ffff&point=DB7093&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Felipe007Guimaraes&bg_color=0d1117&color=DB7093&line=00ffff&point=DB7093&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
- 
  ### Main skills:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
