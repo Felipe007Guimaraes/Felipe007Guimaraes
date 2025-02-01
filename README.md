@@ -9,16 +9,21 @@
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Felipe007Guimaraes&bg_color=0d1117&color=DB7093&line=00ffff&point=DB7093&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
+
+[comment]:https://github.com/inttter/md-badges
+
  ### Main skills:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![P](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)&nbsp;
+![P](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)&nbsp;
 
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)&nbsp;
+![NodeJs](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)&nbsp;
 
 <div align="center"> 
   <a href = "mailto:felipe007.dnl123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
