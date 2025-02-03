@@ -25,10 +25,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)&nbsp;
 ![NodeJs](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)&nbsp;
 
-<div align="center"> 
-  <a href = "mailto:felipe007.dnl123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-da-silva-guimar%C3%A3es-8656ba214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.gg/Felipe007#6215" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+### Connect with me:
+<div align="left"> 
+  <a href = "mailto:felipe007.dnl123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-da-silva-guimar%C3%A3es-8656ba214/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank"></a> 
+  <a href="https://discord.gg/Felipe007#6215" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" target="_blank"></a> 
  </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer"/>
