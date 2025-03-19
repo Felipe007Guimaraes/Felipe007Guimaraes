@@ -17,15 +17,18 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)&nbsp;
 ![NodeJs](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)&nbsp;
 
+
+<div align="left">  
+  <a href="https://github.com/Felipe007Guimaraes">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Felipe007Guimaraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe007Guimaraes&layout=compact&langs_count=7&theme=dracula"/> 
+</div>
 ### Connect with me:
+
 <div align="left"> 
   <a href = "mailto:felipe007.dnl123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-da-silva-guimar%C3%A3es-8656ba214/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank"></a> 
   <a href="https://discord.gg/Felipe007#6215" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
-
-<div align="left">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe007Guimaraes&layout=compact&hide_border=true&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer"/>
